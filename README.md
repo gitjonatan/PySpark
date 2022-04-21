@@ -13,5 +13,10 @@
   
   Algumas funções exploradas:
   
-  * topico
-  * topio
+  * select
+  * filter
+  * count
+  * max
+  * orderBy
+  * DateType
+  * spark.sql
