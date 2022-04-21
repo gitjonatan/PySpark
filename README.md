@@ -9,4 +9,9 @@
 
   [Documentação](https://spark.apache.org/)
   
- # Tópicos
+ ## Tópicos
+  
+  Algumas funções exploradas:
+  
+  * topico
+  * topio
